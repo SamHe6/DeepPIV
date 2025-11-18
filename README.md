@@ -1,5 +1,3 @@
-# DeepPIV
-
 # Welcome to DeepPIV: An integrated deep learning framework for predicting dipeptidyl peptidase-IV inhibitory peptides
 
 Dipeptidyl peptidase-IV inhibitory peptides (DPP-IV-IPs) are promising candidates for the treatment of type 2 diabetes,
