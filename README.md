@@ -13,7 +13,7 @@ analysis further demonstrates that DeepPIV captures both conserved cores and ext
 with inhibitory activity, establishing it as an effective and biologically meaningful framework for DPP-IV-IPs prediction
 and discovery.
 
-
+![The workflow of this study](https://github.com/SamHe6/DeepPIV/blob/main/workflow.png)
 
 # Dataset for this study
 
