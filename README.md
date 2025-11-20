@@ -15,12 +15,6 @@ and discovery.
 
 ![The workflow of this study](https://github.com/SamHe6/DeepPIV/blob/main/workflow.png)
 
-# Dataset for this study
-
-The dataset we used in the paper is consistent with the data from the paper "StructuralDPPIV: a novel deep learning model based on atom structure for predicting dipeptidyl peptidase-IV inhibitory peptides"[1].
-
-[1]Ding Wang, Junru Jin, Zhongshen Li, Yu Wang, Mushuang Fan, Sirui Liang, Ran Su, and Leyi Wei. Structuraldppiv: a novel deep learning model based on atom structure for predicting dipeptidyl peptidase-iv inhibitory peptides. Bioinformatics, 40(2):btae057, 2024.
-
 # Code
 We provide the source code and you can find them [Code](https://github.com/SamHe6/DeepPIV/tree/main/Code)
 
