@@ -1,0 +1,4 @@
+Benchmark dataset curated in previous research:https://github.com/WeiLab-BioChem/Structural-DPP-IV/tree/main/data/DPP-IV
+
+If you use this data in your work, please cite these papers:
+1.Ding Wang, Junru Jin, Zhongshen Li, Yu Wang, Mushuang Fan, Sirui Liang, Ran Su, and Leyi Wei. Structuraldppiv: a novel deep learning model based on atom structure for predicting dipeptidyl peptidase-iv inhibitory peptides. Bioinformatics, 40(2):btae057, 2024.
