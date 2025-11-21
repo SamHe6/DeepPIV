@@ -18,6 +18,22 @@ and discovery.
 # Code
 We provide the source code and you can find them [Code](https://github.com/SamHe6/DeepPIV/tree/main/Code)
 
+## Model Training
+
+Train the model:
+
+```bash
+python main.py
+```
+
+## Model Evaluation
+
+Evaluate the trained model:
+
+```bash
+python evaluation.py
+```
+
 # ESM-2 Protein Language Model
 ```bash
 https://huggingface.co/docs/transformers/en/model_doc/esm
